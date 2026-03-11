@@ -157,7 +157,7 @@ Publish the website in the given URL.
     </div>
     <div class="footer">
         <footer>
-            Designed by Asin Renix V &copy; 2024 
+            Designed by Megha S &copy; 2024 
        </footer>
     </div>
     
