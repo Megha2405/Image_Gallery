@@ -1,35 +1,28 @@
-# Ex.07 Design of Interactive Image Gallery
+# Ex.08 Design of Interactive Image Gallery
 
-## AIM
-  To design a web application for an inteactive image gallery with minimum five images.
+# AIM:
+To design a web application for an interactive image gallery with minimum five images.
 
-## DESIGN STEPS
-
+# DESIGN STEPS:
 ## Step 1:
-
-Clone the github repository and create Django admin interface
+Clone the github repository and create Django admin interface.
 
 ## Step 2:
-
 Change settings.py file to allow request from all hosts.
 
 ## Step 3:
-
 Use CSS for positioning and styling.
 
 ## Step 4:
-
-Write JavaScript program for implementing interactivit
+Write JavaScript program for implementing interactivity.
 
 ## Step 5:
-
-Validate the HTML and CSS code
+Validate the HTML and CSS code.
 
 ## Step 6:
-
 Publish the website in the given URL.
 
-## PROGRAM
+# PROGRAM :
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -164,7 +157,7 @@ Publish the website in the given URL.
     </div>
     <div class="footer">
         <footer>
-            Designed by Megha &copy; 2024 
+            Designed by Asin Renix V &copy; 2024 
        </footer>
     </div>
     
@@ -184,19 +177,17 @@ Publish the website in the given URL.
 
 </body>
 
-
 </html>
+
 ```
+# OUTPUT:
 
-
-## OUTPUT
 ![alt text](<Screenshot 2026-03-11 212246.png>)
-![alt text](<Screenshot 2026-03-11 212246.png>)
+![alt text](<Screenshot 2026-03-11 212328.png>)
 ![alt text](<Screenshot 2026-03-11 212354.png>)
 ![alt text](<Screenshot 2026-03-11 212418.png>)
 ![alt text](<Screenshot 2026-03-11 212430.png>)
 ![alt text](<Screenshot 2026-03-11 212444.png>)
 ![alt text](<Screenshot 2026-03-11 212507.png>)
-
-## RESULT
-  The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
+# RESULT:
+The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
